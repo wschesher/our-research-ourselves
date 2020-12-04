@@ -2,12 +2,13 @@
 markdown:         kramdown
 highlighter:      rouge
 
+
 # Setup
 title:            Our Research, Ourselves
 tagline:          'A duoethnography on grad students, research, and mentoring.'
 description:      ''
 url:              https://wschesher.github.io
-baseurl:          '/test'
+baseurl:          '/our-research-ourselves'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
