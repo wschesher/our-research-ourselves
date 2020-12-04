@@ -1,12 +1,13 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
 
 # Setup
 title:            Our Research, Ourselves
 tagline:          'A duoethnography on grad students, research, and mentoring.'
-description:      ''
+description:      'A duoethnography on grad students, research, and mentoring.'
 url:              https://wschesher.github.io
 baseurl:          '/test'
                   # the optional subpath of your site, e.g. "/blog"
