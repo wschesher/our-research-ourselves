@@ -2,7 +2,8 @@
 
 ## Music
 Music was from [Rook](http://rookmusic.bandcamp.com), specifically:
-- "crossing Bethel Ave at a 5-way stop is stressful" and "the new year and all its promise" _[The Decalogue V. Indie Pop for My Walk to Campus](https://rookmusic.bandcamp.com/album/the-decalogue-v-indie-pop-for-my-walk-to-campus)_
+- "crossing Bethel Ave at a 5-way stop is stressful" and "the new year and all its promise" _[The Decalogue V. Indie Pop for My Walk to Campus](https://rookmusic.bandcamp.com/album/the-decalogue-v-indie-pop-for-my-walk-to-campus)_.
+
 Rook is me so I can use it, but in case you'd like a license, Rook uses an CC 3.0, or an [Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 
@@ -17,8 +18,8 @@ Rook is me so I can use it, but in case you'd like a license, Rook uses an CC 3.
 # The Templates
 
 ## Hyde
-The original, [Hyde](https://github.com/poole/hyde)
+The original, [Hyde](https://github.com/poole/hyde) from Mark Otto.
 
 ## Hydeout
 
-Hydeout updates the original theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
+[Hydeout](https://github.com/fongandrew/hydeout) from Andrew Hong updates the original theme for Jekyll 3.x and 4.x (with some other tweaks).
