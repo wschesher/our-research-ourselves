@@ -2,7 +2,7 @@
 
 ## Music
 Music was from [Rook](http://rookmusic.bandcamp.com), specifically:
-- "crossing Bethel Ave at a 5-way stop is stressful" and "the new year and all its promise" _[The Decalogue V. Indie Pop for My Walk to Campus]_(https://rookmusic.bandcamp.com/album/the-decalogue-v-indie-pop-for-my-walk-to-campus)
+- "crossing Bethel Ave at a 5-way stop is stressful" and "the new year and all its promise" _[The Decalogue V. Indie Pop for My Walk to Campus](https://rookmusic.bandcamp.com/album/the-decalogue-v-indie-pop-for-my-walk-to-campus)_
 Rook is me so I can use it, but in case you'd like a license, Rook uses an CC 3.0, or an [Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 
