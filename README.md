@@ -13,6 +13,7 @@ Rook is me so I can use it, but in case you'd like a license, Rook uses an CC 3.
 - [Jekyll Walkthrough from Mike Dane at Giraffe Academy](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 - [Using Jekyll Templates from WebJeda](https://www.youtube.com/watch?v=bty7LHm14CA&t=12s)
 - [Inserting YouTube videos into GoogleDocs](https://www.guidingtech.com/insert-youtube-videos-google-docs/)
+- [W3 HTML Quotation and Citation Elements](https://www.w3schools.com/HTML/html_quotation_elements.asp)
 
 
 # The Templates
